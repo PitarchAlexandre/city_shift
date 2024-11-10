@@ -14,10 +14,11 @@ I could also improve some of the JavaScript functions to make them more concise 
 
 Overall, I had a lot of fun with this project and really enjoyed the creative process. If I were to tackle something similar in the future, I’d be sure to better structure my work from the start to avoid the piecemeal approach I used this time.
 
-#### links :
--*Website url : [https://pitarchalexandre.github.io/city_shift/](https://pitarchalexandre.github.io/city_shift/)  
--*[Code Pen](https://codepen.io/pythooon02/pen/LYwMRZZ)
-
+#### Links :
+<ol>
+<li>Website url : [https://pitarchalexandre.github.io/city_shift/](https://pitarchalexandre.github.io/city_shift/)</li>
+<li><[Code Pen](https://codepen.io/pythooon02/pen/LYwMRZZ)</li>
+</ol>
 #
 ### Version français
 # City Shift - Animation Jour/Nuit
