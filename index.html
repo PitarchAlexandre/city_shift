@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Description for SEO -->
+    <meta property="og:description" content="City Shift is a creative project where I use HTML, CSS, and JavaScript to
+    bring drawings and interactive elements to life. It's an opportunity to explore new ways to express creativity
+    through code and add a unique touch to my portfolio. Check my GitHub for more details.">
+
+    <!-- Keywords for SEO -->
+    <meta name="keywords" content="HTML, CSS, javascript, programming, frontend, portfolio, style, demo, city, day-night
+     simulation, interactive, day, night, buildings, sunset, simulation, web app, environment">
+
+    <!-- Author of the page -->
+    <meta name="author" content="Alexandre Pitarch">
+
+    <!-- Open Graph meta tags for social sharing -->
+    <meta property="og:title" content="City Shift">
+    <meta property="og:description" content="City Shift is an interactive simulation that lets you toggle between day
+    and night in a city environment.">
+    <meta property="og:image" content="ico/android-chrome-192x192.png">
+    <meta property="og:url" content="https://pitarchalexandre.github.io/city-shif/">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/toggle.css">
+
+    <!--ICON -->
+    <link rel="apple-touch-icon" sizes="180x180" href="ico/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="ico/favicon-16x16.png">
+    <link rel="manifest" href="ico/site.webmanifest">
+    <!--CREDIT FOR THE ICON IMAGE : https://pixabay.com/fr/vectors/pleine-lune-lune-crat%C3%A8res-lunaire-308007/-->
+    <title>City Shift</title>
+</head>
+<body>
+
+<main>
+    <!-- TOGGLE -->
+    <div class="container-checkbox">
+        <input type="checkbox" name="checkDayNight" id="checkDayNight">
+        <label for="checkDayNight" class="button" id="button">
+            <div class="sun-button"></div>
+        </label>
+    </div>
+    <span>Day Night</span>
+
+    <!--CONTAINER-->
+    <div class="container">
+        <!--SKY, SUN AND MOON-->
+        <div class="sky" id="sky">
+            <div class="sun" id="sun">
+                <div class="moon" id="moon">
+                    <div class="crescent" id="crescent"></div>
+                </div>
+            </div>
+            <div class="building building0">
+                <div class="window window1-bld0"></div>
+                <div class="window window2-bld0"></div>
+                <div class="window window3-bld0"></div>
+                <div class="window window4-bld0"></div>
+                <div class="window window5-bld0"></div>
+            </div>
+            <!--FIRST BUILDING ON THE LEFT-->
+            <div class="building building1">
+                <div class="window window1-bld1"></div>
+                <div class="window window2-bld1"></div>
+                <div class="window window3-bld1"></div>
+                <div class="window window4-bld1"></div>
+                <div class="window window5-bld1"></div>
+                <div class="window window-person">
+                    <div id="person">
+                        <div class="person-head"></div>
+                        <div class="person-body"></div>
+                    </div>
+                </div>
+                <div class="door">
+                </div>
+            </div>
+            <!--SECOND BUILDING-->
+            <div class="building building2">
+                <div class="window window1-bld2"></div>
+                <div class="window window2-bld2"></div>
+                <div class="window window3-bld2"></div>
+                <div class="window window4-bld2"></div>
+                <div class="window window5-bld2"></div>
+            </div>
+
+            <!--THIRD BUILDING ON THE LEFT-->
+            <div class="building building3">
+                <div class="window window1-bld3"></div>
+                <div class="window window2-bld3"></div>
+                <div class="window window3-bld3"></div>
+                <div class="window window4-bld3"></div>
+            </div>
+
+            <!--FOURTH BUILDING-->
+            <div class="building building4">
+                <div class="window window1-bld4"></div>
+                <div class="window window2-bld4"></div>
+                <div class="window window3-bld4"></div>
+                <div class="window window4-bld4"></div>
+                <div class="window window5-bld4"></div>
+            </div>
+
+            <!--FIFTH BUILDING-->
+            <div class="building building5">
+                <div class="window window1-bld5"></div>
+                <div class="window window2-bld5"></div>
+                <div class="window window3-bld5"></div>
+                <div class="window window4-bld5"></div>
+            </div>
+
+            <!--SIDEWALK-->
+            <div class="ground" id="ground">
+                <div class="sidewalk"></div>
+                <div class="road-line"></div>
+                <div class="road">
+                    <!--TRUCK-->
+                    <div class="truck">
+                        <div class="truck-cabin">
+                            <div class="truck-window"></div>
+                            <div class="truck-door">
+                                <div class="truck-handle-door"></div>
+                            </div>
+                        </div>
+                        <div class="truck-wheel truck-wheel-front">
+                            <div class="truck-rim"></div>
+                        </div>
+                        <div class="truck-trailer">
+                            <p>Delivery</p>
+                        </div>
+                        <div class="truck-wheel truck-wheel-middle">
+                            <div class="truck-rim"></div>
+                        </div>
+                        <div class="truck-wheel truck-wheel-back-1">
+                            <div class="truck-rim"></div>
+                        </div>
+                        <div class="truck-wheel truck-wheel-back-2">
+                            <div class="truck-rim"></div>
+                        </div>
+                    </div>
+                    <!--GREEN CAR-->
+                    <div class="car-green">
+                        <div class="car-trapezoid-green">
+                            <div class="car-front-window"></div>
+                        </div>
+                        <div class="car-rect-green">
+                            <div class="car-wheel-left">
+                                <div class="car-rim"></div>
+                            </div>
+                            <div class="car-wheel-right">
+                                <div class="car-rim"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--RED CAR-->
+                    <div class="car-red">
+                        <div class="car-trapezoid-red">
+                            <div class="car-front-window"></div>
+                            <div class="car-back-window"></div>
+                        </div>
+                        <div class="car-rect-red">
+                            <div class="car-wheel-left">
+                                <div class="car-rim"></div>
+                            </div>
+                            <div class="car-wheel-right">
+                                <div class="car-rim"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--ORANGE CAR-->
+                    <div class="car-orange">
+                        <div class="car-trapezoid-orange">
+                            <div class="car-back-window"></div>
+                            <div class="car-front-window"></div>
+                        </div>
+                        <div class="car-rect-orange">
+                            <div class="car-wheel-left">
+                                <div class="car-rim"></div>
+                            </div>
+                            <div class="car-wheel-right">
+                                <div class="car-rim"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<script src="js/main.js"></script>
+</body>
+</html>
