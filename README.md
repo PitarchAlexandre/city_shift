@@ -16,8 +16,8 @@ Overall, I had a lot of fun with this project and really enjoyed the creative pr
 
 #### Links :
 <ul>
-  <li>Website url : [https://pitarchalexandre.github.io/city_shift/](https://pitarchalexandre.github.io/city_shift/) </li>
-  <li> [Code Pen](https://codepen.io/pythooon02/pen/LYwMRZZ) </li>
+  <li>Website url : <a href="https://pitarchalexandre.github.io/city_shift/">https://pitarchalexandre.github.io/city_shift/</a></li>
+  <li> <a href="https://codepen.io/pythooon02/pen/LYwMRZZ">Code Pen</a></li>
 </ul>
 
 #
