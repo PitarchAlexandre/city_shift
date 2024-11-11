@@ -1,8 +1,8 @@
 # [Click here to visit the website](https://pitarchalexandre.github.io/city_shift/)
 
 ### English version 
-# City Shift - Day/Night Toggle Animation
-## A fun HTML/CSS/JS animation project 🎨🌇🚗☀️🌙
+# City Shift - Day/Night Toggle Animation 🌇
+## A fun HTML/CSS/JS animation project 🎨☀️🌙🚗🌆
 
 The technologies used in this project are **HTML**, **CSS** and **Javascript**.
 
