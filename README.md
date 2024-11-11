@@ -19,6 +19,7 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
   <li>Website url : <a href="https://pitarchalexandre.github.io/city_shift/">https://pitarchalexandre.github.io/city_shift/</a></li>
   <li> <a href="https://codepen.io/pythooon02/pen/LYwMRZZ">Code Pen</a></li>
 </ul>
+
 #### Technologies :
 <ul>
   <li>HTML</li>
@@ -48,6 +49,7 @@ Dans l’ensemble, j’ai pris beaucoup de plaisir à réaliser ce projet 🤠 e
   <li>Url du site : <a href="https://pitarchalexandre.github.io/city_shift/">https://pitarchalexandre.github.io/city_shift/</a></li>
   <li> <a href="https://codepen.io/pythooon02/pen/LYwMRZZ">Code Pen</a></li>
 </ul>
+
 #### Technologies :
 <ul>
   <li>HTML</li>
