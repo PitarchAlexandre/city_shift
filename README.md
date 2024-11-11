@@ -32,10 +32,8 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 #
 
 ### Version français
-# City Shift - Animation Jour/Nuit
-## Un pojet d'animation amusant en HTML/CSS/JS
-🎨🌇🚗☀️🌙
-
+# City Shift - Animation Jour/Nuit 🌇
+## Un pojet d'animation amusant en HTML/CSS/JS 🎨☀️🌙🚗🌆
 
 Le projet utilise les technologies HTML, CSS et JavaScript, et a été développé avec l'IDE WebStorm.
 
