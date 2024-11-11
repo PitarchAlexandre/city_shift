@@ -25,10 +25,11 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 #### Technologies :
 <ul>
   <li>HTML</li>
-  <li>CSS<li>
-  <li>Javascript<li>
-  <li>WebStorm<li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>WebStorm</li>
 </ul>
+
 #
 
 ### Version français
@@ -57,7 +58,7 @@ Dans l’ensemble, j’ai pris beaucoup de plaisir à réaliser ce projet 🤠 e
 #### Technologies :
 <ul>
   <li>HTML</li>
-  <li>CSS<li>
-  <li>Javascript<li>
-  <li>WebStorm<li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>WebStorm</li>
 </ul>
