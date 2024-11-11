@@ -4,8 +4,6 @@
 # City Shift - Day/Night Toggle Animation 🌇
 ## A fun HTML/CSS/JS animation project 🎨☀️🌙🚗🌆
 
-The technologies used in this project are **HTML**, **CSS** and **Javascript**.
-
 What started as a simple challenge to create a pure CSS toggle turned into a much larger project. After not working with CSS toggles for a while (having used mostly those from frameworks), I decided to try something from scratch for fun.
 
 🎨Initially, my plan was just to create a toggle that changed the brightness of the page. But as I worked on it, the project evolved into **a day/night toggle for a cityscape**🌇. Now, clicking the toggle switches between day☀️ and night🌙, affecting elements like the sky, buildings, and even a person moving across a window in one of the buildings. Along the way, I added other **animations**, such as turning building lights on/off and cars driving by.
@@ -34,8 +32,6 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 ### Version français
 # City Shift - Animation Jour/Nuit 🌇
 ## Un pojet d'animation amusant en HTML/CSS/JS 🎨☀️🌙🚗🌆
-
-Le projet utilise les technologies HTML, CSS et JavaScript, et a été développé avec l'IDE WebStorm.
 
 Ce qui a commencé comme un simple défi pour créer un toggle en CSS pur est devenu un projet beaucoup plus vaste. Après avoir utilisé principalement des toggles issus de frameworks ces derniers temps, j'ai décidé de me remettre à en créer un de zéro pour le plaisir.
 
