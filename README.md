@@ -2,8 +2,7 @@
 
 ### English version 
 # City Shift - Day/Night Toggle Animation
-## A fun HTML/CSS/JS animation project
-🎨🌇🚗☀️🌙
+## A fun HTML/CSS/JS animation project 🎨🌇🚗☀️🌙
 
 The technologies used in this project are **HTML**, **CSS** and **Javascript**.
 
