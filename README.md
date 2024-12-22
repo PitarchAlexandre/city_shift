@@ -60,4 +60,3 @@ Dans l’ensemble, j’ai pris beaucoup de plaisir à réaliser ce projet 🤠 e
   <li>WebStorm</li>
 </ul>
 </div>
-</div>
