@@ -1,5 +1,7 @@
 # [Click here to visit the website](https://pitarchalexandre.github.io/city_shift/)
 
+<a href="#francais">Version française ici</a>
+
 ### English version 
 # City Shift - Day/Night Toggle Animation 🌇
 ## A fun HTML/CSS/JS animation project 🎨☀️🌙🚗🌆
@@ -29,8 +31,8 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 </ul>
 
 #
-
-### Version français
+<div id="francais">
+### Version français </div>
 # City Shift - Animation Jour/Nuit 🌇
 ## Un pojet d'animation amusant en HTML/CSS/JS 🎨☀️🌙🚗🌆
 
