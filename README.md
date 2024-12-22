@@ -32,7 +32,7 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 
 #
 <div id="francais">
-### Version français </div>
+### Version français 
 # City Shift - Animation Jour/Nuit 🌇
 ## Un pojet d'animation amusant en HTML/CSS/JS 🎨☀️🌙🚗🌆
 
@@ -59,3 +59,5 @@ Dans l’ensemble, j’ai pris beaucoup de plaisir à réaliser ce projet 🤠 e
   <li>Javascript</li>
   <li>WebStorm</li>
 </ul>
+</div>
+</div>
