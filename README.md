@@ -30,7 +30,7 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
   <li>WebStorm</li>
 </ul>
 
-### Version française
+
 <div id="francais">
   <h2>Version française</h2>
   <h1>City Shift - Animation Jour/Nuit 🌇</h1>
