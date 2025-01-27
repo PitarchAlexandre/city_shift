@@ -33,7 +33,7 @@ Overall, I had a lot of fun with this project 🤠 and really enjoyed the creati
 
 <div id="francais">
   <h2>Version française</h2>
-  <h1>City Shift - Animation Jour/Nuit 🌇</h1>
+  <h1>City Shift - Animation Toggle Jour/Nuit 🌇</h1>
   <p>Un projet d'animation amusant en HTML/CSS/JS 🎨☀️🌙🚗🌆</p>
 
   Ce qui a commencé comme un simple défi pour créer un toggle en CSS pur est devenu un projet beaucoup plus vaste. Après avoir utilisé principalement des toggles issus de frameworks ces derniers temps, j'ai décidé de me remettre à en créer un de zéro pour le plaisir.
